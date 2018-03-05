@@ -1,0 +1,10 @@
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/bin/Debug/netcoreapp2.0/gameOfLife.deps.json
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/bin/Debug/netcoreapp2.0/gameOfLife.runtimeconfig.json
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/bin/Debug/netcoreapp2.0/gameOfLife.runtimeconfig.dev.json
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/bin/Debug/netcoreapp2.0/gameOfLife.dll
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/bin/Debug/netcoreapp2.0/gameOfLife.pdb
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/obj/Debug/netcoreapp2.0/gameOfLife.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/obj/Debug/netcoreapp2.0/gameOfLife.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/obj/Debug/netcoreapp2.0/gameOfLife.AssemblyInfo.cs
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/obj/Debug/netcoreapp2.0/gameOfLife.dll
+/Users/mac/Desktop/Bakosya/Computer Simulation/gameOfLife/obj/Debug/netcoreapp2.0/gameOfLife.pdb
