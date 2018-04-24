@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+
+    #grad1 {
+        height: 30px;
+        background: linear-gradient(red, orange);
+        width: 20%;
+    }
+    #grad2 {
+        height: 40px;
+        background: linear-gradient(orange, yellow);
+        width: 30%;
+    }
+    #grad3 {
+        height: 50px;
+        background: linear-gradient(yellow, green);
+        width: 40%;
+    }
+    #grad4 {
+        height: 60px;
+        background: linear-gradient(green, blue);
+        width: 50%;
+    }
+    #grad5 {
+        height: 70px;
+        background: linear-gradient(blue, indigo);
+        width: 60%;
+    }
+    #grad6 {
+        height: 80px;
+        background: linear-gradient(indigo, violet);
+        width: 70%;
+    }
+    #grad7 {
+        height: 90px;
+        background: linear-gradient(violet, white);
+        width: 80%;
+    }
+    .center{
+      width: 60%;
+      margin: 0 auto;
+    }
+    .line{
+      display: flex;
+      justify-content: center;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Linear Gradients - Multiple Color Stops</h1>
+
+  <h3>7 Color Stops (evenly spaced):</h3>
+  <div class="center">
+    <div class="line">
+      <div style="width: 20%; height: 20px; background-color: black"></div>
+    </div>
+    <div class="line">
+      <div style="width: 5%; height: 30px; background-color: orange" class="min"></div>
+      <div id="grad1" class="min"></div>
+      <div style="width: 5%; height: 30px; background-color: orange" class="min"></div>
+    </div>
+    <div class="line">
+      <div style="width: 5%; height: 40px; background-color: yellow"></div>
+      <div id="grad2" class="min"></div>
+      <div style="width: 5%; height: 40px; background-color: yellow"></div>
+    </div>
+    <div class="line">
+      <div style="width: 5%; height: 50px; background-color: green"></div>
+      <div id="grad3" class="min"></div>
+      <div style="width: 5%; height: 50px; background-color: green"></div>
+    </div>
+    <div class="line">
+      <div style="width: 5%; height: 60px; background-color: blue"></div>
+      <div id="grad4" class="min"></div>
+      <div style="width: 5%; height: 60px; background-color: blue"></div>
+    </div>
+    <div class="line">
+      <div style="width: 5%; height: 70px; background-color: indigo"></div>
+      <div id="grad5" class="min"></div>
+      <div style="width: 5%; height: 70px; background-color: indigo"></div>
+    </div>
+    <div class="line">
+      <div style="width: 5%; height: 80px; background-color: violet"></div>
+      <div id="grad6" class="min"></div>
+      <div style="width: 5%; height: 80px; background-color: violet"></div>
+    </div>
+    <div class="line">
+      <div style="width: 5%; height: 90px; background-color: white"></div>
+      <div id="grad7" class="min"></div>
+      <div style="width: 5%; height: 90px; background-color: white"></div>
+    </div>
+  </div>
+</body>
+</html>
